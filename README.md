@@ -12,5 +12,5 @@ Para rodar o projeto é preciso ter instalado:
 
 Para fazer a compilação dos arquivos e executar o parser:
 
-    make -S -b
+    make -s -B
 
